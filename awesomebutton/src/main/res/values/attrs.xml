@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="awesome_button">
+        <attr name="background_view" format="reference|color" />
+        <attr name="background_first_view" format="reference|color" />
+        <attr name="background_third_view" format="reference|color" />
+        <attr name="background_second_view" format="reference|color" />
+        <attr name="text_view" format="reference|string" />
+    </declare-styleable>
+</resources>
